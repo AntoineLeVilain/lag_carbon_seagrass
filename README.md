@@ -3,6 +3,8 @@ Code for running the transient analysis of seagrass-soil model
 
 ***Antoine Le Vilain***
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15169203.svg)](https://doi.org/10.5281/zenodo.15169203)
+
 <ins>Contact</ins>: antoine.levilain18@gmail.com
 
 This repository contains the code used to generate the figures and analyses supporting: Temporal Lags in the Dynamics of Carbon Storage Following the Collapse of Seagrass Ecosystems Depend on Type of Stressor. By running the included R and Python scripts, you can replicate the transient dynamics simulations of a seagrass–soil ecosystem under gradual changes in environmental stressors. The files are organised so that each figure (or set of figures) has associated scripts for both data generation (solving and storing model outputs) and plotting the final results.
