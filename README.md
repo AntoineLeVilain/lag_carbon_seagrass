@@ -1,7 +1,7 @@
 Code for running the transient analysis of seagrass-soil model
 ==============
 
-***Antoine Le Vilain
+***Antoine Le Vilain***
 
 <ins>Contact</ins>: antoine.levilain18@gmail.com
 
